@@ -1,8 +1,8 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "min_version": "1.0.0",
     "platform": "windows",
-    "download_url": "https://github.com/BasileFromSouth/agata-metadata/releases/download/1.0.6/AgataSetup.exe",
+    "download_url": "https://github.com/BasileFromSouth/agata-metadata/releases/download/1.0.7/AgataSetup.exe",
     "critical": true,
     "message": "New version available"
   }
