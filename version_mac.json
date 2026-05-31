@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "min_version": "1.0.6",
+  "version": "1.0.9",
+  "min_version": "1.0.8",
   "platform": "mac",
-  "download_url": "https://github.com/BasileFromSouth/agata-metadata/releases/download/1.0.8/Agata-1.0.8.dmg",
+  "download_url": "https://github.com/BasileFromSouth/agata-metadata/releases/download/1.0.9/Agata-1.0.9.dmg",
   "critical": true,
   "message": "New version available"
 }
